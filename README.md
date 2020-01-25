@@ -1,1 +1,2 @@
 # LinuxApplication
+* Bash | Sh | Tsh | 
