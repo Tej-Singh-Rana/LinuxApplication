@@ -198,6 +198,3 @@ It will be move to direct line number 22.
 If it is high lights the words then use ":set nohls"
 ```
 
-
-
-```
